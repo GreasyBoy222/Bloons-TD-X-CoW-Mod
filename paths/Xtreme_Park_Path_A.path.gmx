@@ -1,0 +1,17 @@
+<path>
+  <kind>0</kind>
+  <closed>0</closed>
+  <precision>4</precision>
+  <backroom>71</backroom>
+  <hsnap>16</hsnap>
+  <vsnap>16</vsnap>
+  <points>
+    <point>-48,432,1000</point>
+    <point>48,432,125</point>
+    <point>80,432,125</point>
+    <point>240,432,125</point>
+    <point>240,144,125</point>
+    <point>560,144,125</point>
+    <point>560,-128,125</point>
+  </points>
+</path>
